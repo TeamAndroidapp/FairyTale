@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FairyTale</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_newgame">はじめから</string>
+    <string name="action_loadgame">つづきから</string>
+    <string name="action_make">キャラ作成</string>
+</resources>
